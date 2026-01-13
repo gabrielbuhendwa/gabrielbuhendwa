@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm a developer who loves creating simple and useful things.</p>
+<p align="left">I’m Gabriel, a developer passionate about building elegant and impactful solutions.</p>
 
 ###
 
@@ -12,10 +12,15 @@
 
 <p align="left">
 ✨ Building impactful software since 2021<br>
-💻 Focused on mastering the full JavaScript ecosystem: front-end & back-end<br>
+  
+💻 Navigating the full JavaScript stack to craft sophisticated, real-world solutions<br>
+
 🎯 Goal: Deliver real-world projects as a skilled full-stack developer<br>
+
 🧩 Core strengths: problem-solving, curiosity, collaboration, and project execution<br>
+
 🚀 Passionate about innovation, learning, and leveraging technology to create solutions<br>
+
 🎲 Fun fact: I explore deeply—sometimes by breaking things first 😄
 </p>
 
