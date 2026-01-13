@@ -11,11 +11,12 @@
 ###
 
 <p align="left">
-✨ Creating things since 2021<br>
-📚 Currently learning to master the full JavaScript ecosystem (front-end & back-end)<br>
-🎯 Goal: Become a strong full-stack developer and build real-world projects<br>
-🧩 Skills: problem-solving, curiosity, teamwork, and project handling<br>
-🎲 Fun fact: I always break something before I understand how it works 😄
+✨ Building impactful software since 2021<br>
+💻 Focused on mastering the full JavaScript ecosystem: front-end & back-end<br>
+🎯 Goal: Deliver real-world projects as a skilled full-stack developer<br>
+🧩 Core strengths: problem-solving, curiosity, collaboration, and project execution<br>
+🚀 Passionate about innovation, learning, and leveraging technology to create solutions<br>
+🎲 Fun fact: I explore deeply—sometimes by breaking things first 😄
 </p>
 
 ###
