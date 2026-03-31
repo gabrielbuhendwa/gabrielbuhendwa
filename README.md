@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-buhendwa-967354279/)
 
-*Building elegant solutions, one commit at a time* ✨
+*Building elegant solutions, one commit at a time* 
 
 </div>
 
