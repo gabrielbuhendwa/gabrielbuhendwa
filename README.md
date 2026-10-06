@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Web Developer** passionate about crafting impactful software that solves real-world problems. Since 2021, I've been on an exciting journey through the world of web development, constantly learning, experimenting, and pushing boundaries.
 
